@@ -21,7 +21,7 @@ It also includes utility scripts for **automated backup**, **restore**, and **fu
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/youruser/komodo-docker.git
+git clone https://github.com/bucky-grappler/komodo-docker.git
 cd komodo-docker
 chmod +x install.sh
 ./install.sh
